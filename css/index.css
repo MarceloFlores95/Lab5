@@ -1,0 +1,39 @@
+* {
+    font-family: Courier New;
+}
+
+body {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+}
+
+.item-container {
+    border: 2px solid #A9A9A9;
+    padding: 10px;
+    margin-top: 10px;
+    color: #A9A9A9;
+    font-style: italic;
+}
+
+.check-btn {
+    background-color: green;
+    color:white;
+}
+
+.delete-btn {
+    background-color: red;
+    color:white;
+}
+
+.item-container:hover {
+    background-color:#F1F1F1
+}
+
+header {
+    text-align: center;
+}

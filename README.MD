@@ -1,0 +1,1 @@
+<p>A simple shopping list</p>
